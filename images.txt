@@ -1,3 +1,3 @@
 alpine
 flannel/flannel-cni-plugin:v1.4.1-flannel1
-flannel/flannel:v0.25.4/
+flannel/flannel:v0.25.4
