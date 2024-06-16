@@ -1,6 +1,8 @@
 alpine
+nginx:1.27.0-perl
+bitnami/clickhouse:22.8.11-debian-11-r3
 kubernetesui/dashboard:v2.3.1
 kubernetesui/metrics-scraper:v1.0.6
 
-#flannel/flannel-cni-plugin:v1.4.1-flannel1
-#flannel/flannel:v0.25.4
+flannel/flannel-cni-plugin:v1.4.1-flannel1
+flannel/flannel:v0.25.4
