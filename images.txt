@@ -1,4 +1,5 @@
 alpine
+jettech/kube-webhook-certgen:v1.5.1
 nginx:1.27.0-perl
 bitnami/clickhouse:22.8.11-debian-11-r3
 kubernetesui/dashboard:v2.3.1
